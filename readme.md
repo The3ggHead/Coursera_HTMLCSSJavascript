@@ -22,6 +22,11 @@
 - https://codepen.io/
 - https://caniuse.com/
 - https://www.w3schools.com/browsers/
+- https://validator.w3.org/#validate_by_uri
+
+# Nützliche VS Code Extensions
+- https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser
+
 
 
 
