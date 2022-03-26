@@ -1,6 +1,7 @@
 # Notizen zum Kurs Coursera HTML, CSS and Javascript for Web Developers
-Link: https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome
-Repo: https://github.com/jhu-ep-coursera/fullstack-course4
+- Link: https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome
+- Repo: https://github.com/jhu-ep-coursera/fullstack-course4
+- Website readme: https://the3gghead.github.io/Coursera_HTMLCSSJavascript/
 
 # Programme einrichten
 - Git installieren
@@ -14,5 +15,17 @@ Repo: https://github.com/jhu-ep-coursera/fullstack-course4
 # Beispiel für Nutzung von Browser Sync
 - Folgenden Befehl im Terminal im Ordner "site" eingeben, um Vorschau auf html-Dateien zu erhalten
     - browser-sync start --server --directory --files "*"
+
+# Nützliche Websites
+- https://jsfiddle.net/
+- https://css-tricks.com/
+- https://codepen.io/
+- https://caniuse.com/
+- https://www.w3schools.com/browsers/
+
+
+
+
+
 
 
