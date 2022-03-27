@@ -16,6 +16,12 @@
 - Folgenden Befehl im Terminal im Ordner "site" eingeben, um Vorschau auf html-Dateien zu erhalten
     - browser-sync start --server --directory --files "*"
 
+# Setting up Bootstrap
+- Bootstrap herunterladen
+    - https://getbootstrap.com/
+- jQuery im js-folder ergänzen
+    - https://jquery.com/
+
 # Nützliche Websites
 - https://jsfiddle.net/
 - https://css-tricks.com/
