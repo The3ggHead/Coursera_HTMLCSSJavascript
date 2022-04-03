@@ -15,6 +15,7 @@
 # Beispiel für Nutzung von Browser Sync
 - Folgenden Befehl im Terminal im Ordner "site" eingeben, um Vorschau auf html-Dateien zu erhalten
     - browser-sync start --server --directory --files "*"
+    - browser-sync start --server --directory --files "**/*" --> Aktualiseirungen auch in Unterordnern
 
 # Setting up Bootstrap
 - Bootstrap herunterladen
